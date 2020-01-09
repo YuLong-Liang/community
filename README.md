@@ -1,7 +1,7 @@
 ## community
 
 ##资料
-https://v3.bootcss.com/css/#grid
-https://spring.io/guides/gs/serving-web-content/
-https://developer.github.com/apps/
+[bootstrap 文档]( https://v3.bootcss.com/css/#grid )
+[stringboot 文档]( https://spring.io/guides/gs/serving-web-content/ )
+[github 授权app]( https://developer.github.com/apps/ )
 ##工具
